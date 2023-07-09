@@ -1,2 +1,2 @@
-# Pizza Tower MULTIPIZZA SOURCE CODE
+# Pizza Tower MULTIPIZZA
  An Online Pizza Tower Mod
