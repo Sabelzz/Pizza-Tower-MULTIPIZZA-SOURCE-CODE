@@ -1,0 +1,8 @@
+if (obj_player.state == (97 << 0))
+    instance_destroy()
+if (obj_player.state == (115 << 0))
+    instance_destroy()
+if (obj_player.state == (140 << 0))
+    instance_destroy()
+if (obj_player.state == (83 << 0))
+    instance_destroy()

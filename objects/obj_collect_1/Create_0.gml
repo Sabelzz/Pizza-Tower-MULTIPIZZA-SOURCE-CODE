@@ -1,0 +1,15 @@
+collectvanish = 0
+collectboxid = -4
+use_palette = 1
+in_the_void = 0
+depth = 2
+sprite_index = choose(spr_collect1, spr_collect2, spr_collect3, spr_collect4, spr_collect5)
+image_index = irandom((image_number - 1))
+image_speed = 0.35
+image_alpha = 1
+escape = 0
+global.collected = 0
+global.collectsound = 0
+gotowardsPlayer = 0
+movespeed = 0
+col = irandom_range(1, 5)

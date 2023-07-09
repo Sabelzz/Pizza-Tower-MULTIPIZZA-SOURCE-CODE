@@ -1,0 +1,9 @@
+targetRoom = entryway_1;
+level = "Crunchy Construction";
+title_index = 4;
+title_sprite = spr_titlecards_newtitles;
+titlecard_index = 4;
+titlecard_sprite = spr_titlecards_new;
+title_music = "event:/music/ptt/crunchytitle";
+group_arr = ["crunchyconstructiongroup"];
+msg = "Crunchy Construction";
